@@ -12,7 +12,7 @@
       url = "github:numtide/flake-utils";
       inputs.systems.follows = "systems";
     };
-    flake-compat = {
+    flake-compact = {
       url = "github:edolstra/flake-compat";
       flake = false;
     };
